@@ -1,0 +1,1 @@
+start wt -p "pwsh" python %1
